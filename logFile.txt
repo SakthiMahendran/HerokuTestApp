@@ -1,5 +1,0 @@
-u.Name Sreeni u.Ip:  60.243.111.226 u.Device Mozilla/5.0 (Linux; Android 10; POCO F1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
-u.Name Rithik Roshan.E u.Ip:  106.198.85.18 u.Device Mozilla/5.0 (Linux; Android 9; LM-X440IM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-u.Name Rithik Roshan.E u.Ip:  106.198.85.18 u.Device Mozilla/5.0 (Linux; Android 9; LM-X440IM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-u.Name SakthiMahendran u.Ip:  2409:40f4:16:2bc5:94ad:dcff:fe29:bfda u.Device Mozilla/5.0 (Linux; Android 12; 2201116PI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
-u.Name Shrwanthi u.Ip:  106.201.180.134 u.Device Mozilla/5.0 (Linux; Android 12; 21091116AI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36

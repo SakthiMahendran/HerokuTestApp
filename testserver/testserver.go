@@ -34,18 +34,18 @@ func (ts *TestServer) requestHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	if r.URL.Path == "/" {
-		ts.respondHtml(w, r, "webpage/index.html")
+		ts.respondRes(w, r, "webpage/index.html")
 		return
 	}
 
 	w.WriteHeader(http.StatusNotFound)
 }
 
-func (ts *TestServer) respondHtml(w http.ResponseWriter, r *http.Request, htmlPath string) {
-	w.Write(ts.readIndexHtml(htmlPath))
+func (ts *TestServer) respondRes(w http.ResponseWriter, r *http.Request, htmlPath string) {
+	w.Write(ts.readRes(htmlPath))
 }
 
-func (ts *TestServer) readIndexHtml(path string) []byte {
+func (ts *TestServer) readRes(path string) []byte {
 	fileContent, _ := os.ReadFile(path)
 	return fileContent
 }
